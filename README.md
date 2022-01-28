@@ -1,1 +1,1 @@
-"# practical statistics book exercises and examples" 
+# practical statistics book exercises and examples
